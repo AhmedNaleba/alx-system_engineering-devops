@@ -11,3 +11,4 @@
 10-back Scripty that changes directory to the previous one
 11-lists script that lists files in current, parent and /boot directories in long format
 12-file-type Script to print file type
+13-symbolic-link script that creates a symbolic link
