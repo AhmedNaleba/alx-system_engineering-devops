@@ -10,3 +10,4 @@
 9-firstdirdeletion Delete my-first-directory in the /tmp directory
 10-back Scripty that changes directory to the previous one
 11-lists script that lists files in current, parent and /boot directories in long format
+12-file-type Script to print file type
