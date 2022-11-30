@@ -5,3 +5,4 @@
 4-listmorefiles Display contents of current working directory includeing hidden files
 5-listfilesdigitonly Long format listing with user and group IDs and hidden files
 6-firstdirectory Script that creates a directory named "my-first-directory" in /tmp directory
+7-movethatfile Move betty
