@@ -5,3 +5,4 @@ Here we are learning about shell permissions
 3-new-owner - Script to change ownership of a file
 4-empty - Script that breates an empty file hello
 5-execute - script that adds execute permission to the owner of the file hello
+6-multiple-permissions -  script that adds execute permission to the owner and the group owner, and read permission to other users,hello
