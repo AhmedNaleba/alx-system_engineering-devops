@@ -10,3 +10,4 @@ Here we are learning about shell permissions
 8-James-Bond - script that grants permission only to other users
 9-John-Doe - script that sets mode to user
 10-mirror_permissions - Script to mirror permissions from another file
+11-directories_permissions - Script to add execute permissions
