@@ -4,3 +4,4 @@ Here we are learning about shell permissions
 2-groups - script that prints all the groups the current user is part of
 3-new-owner - Script to change ownership of a file
 4-empty - Script that breates an empty file hello
+5-execute - script that adds execute permission to the owner of the file hello
