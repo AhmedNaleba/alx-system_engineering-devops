@@ -15,3 +15,4 @@ Here we are learning about shell permissions
 13-change_group - Script that changes group ownership
 100-change_owner_and_group - Script that changes group and owner permissions
 101-symbolic_link_permissions - Script to change permissions of a symbolic link
+102-if_only - Script to change ownership only if owned by a certain user
