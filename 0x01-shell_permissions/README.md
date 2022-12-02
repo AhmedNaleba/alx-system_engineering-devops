@@ -13,3 +13,4 @@ Here we are learning about shell permissions
 11-directories_permissions - Script to add execute permissions
 12-directory_permissions - Script that creates a directory with permissions
 13-change_group - Script that changes group ownership
+100-change_owner_and_group - Script that changes group and owner permissions
