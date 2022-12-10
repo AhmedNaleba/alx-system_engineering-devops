@@ -8,3 +8,4 @@
 7-file - Script that creates a file with special characters and contents
 8-cwd_state - Script that writes results of ls -la to a file
 9-duplicate_last_line - Script that duplicates the last line of a file
+10-no_more_js - Script that deletes .js files from the current directory and not directories
