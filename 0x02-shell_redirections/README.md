@@ -7,3 +7,4 @@
 6-third_line - Script that displays third line of a file
 7-file - Script that creates a file with special characters and contents
 8-cwd_state - Script that writes results of ls -la to a file
+9-duplicate_last_line - Script that duplicates the last line of a file
