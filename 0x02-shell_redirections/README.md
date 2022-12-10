@@ -5,3 +5,5 @@
 4-lastlines - Script that displays the last 10 lines of a file
 5-firstlines - Script that displays the first 10 line of a file
 6-third_line - Script that displays third line of a file
+7-file - Script that creates a file with special characters and contents
+8-cwd_state - Script that writes results of ls -la to a file
